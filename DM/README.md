@@ -24,6 +24,7 @@ This folder contains the final version of my work for the Data Management area o
 | `relationsql.pdf`        | DataCamp Certificate: Intermediate SQL – Relational Databases |
 | `intermedsql.pdf`        | DataCamp Certificate: Intermediate SQL |
 | `intermedpython.pdf`     | DataCamp Certificate: Intermediate Python (relevant to data handling and preprocessing) |
+| `models.py`              | Models in Django for final project   |
 
 ## Notes
 These materials are based on work completed through DataCamp. While no hands-on code files are saved locally, the certificates included provide evidence of the concepts and tools mastered during the program.
