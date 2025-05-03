@@ -10,6 +10,7 @@ This folder contains the final version of my work for the Business Analytics are
 - **RapidMiner Correlation Matrix**: The images in RapidMiner showing the process used to clean data and create a correlation matrix.
 - **Tableau Sales Dashboard**: A dashboard created on Tableau that displays Sales and Average Time to Deliver, Annual Sales, Sales by Month, and Average Time to Deliver. This dashboard is interactive and features slicers as well.
 - **RapidMiner Logistic Regression Model**: Logistic Regression Model example using RapidMiner.
+- **Data Analytics Capstone Paper**: Paper describing in depth the skills I have learned, how I learned them, my strenghts, and weaknesses in the area of Data Analytics.
 
 ## Key Skills Demonstrated
 - Data cleaning and preparation  
@@ -20,13 +21,13 @@ This folder contains the final version of my work for the Business Analytics are
 
 ## File Descriptions
 
-| File                          | Description |
-|-------------------------------|-------------|
-| `BA_Final_Report.docx`        | Written report of the project |
-| `BA_Analysis.xlsx`            | Excel workbook with charts, pivot tables, and data views |
-| `RapidMiner_Workflow.rmp`     | Final model with logistic regression and performance metrics |
-| `SQL_Queries.sql`             | Scripts used to prepare the dataset |
-| `BA_Presentation_Slides.pptx` | Final PowerPoint used for class presentation |
+| File                                                       | Description |
+|-------------------------------                             |-------------|
+| `AirportBubbleChart.xlsx`                                  | Excel Airport Bubble Chart |
+| `Screenshot 2025-05-03 102937.png, 103023.ppng`            | RapidMiner Decision Tree |
+| `Screenshot 2025-05-03 103050.png, 103057.png`             | RapidMiner Correlation Matrix |
+| `salesdashboard.twb`                                       | Tableau Sales Dashboard |
+| `Data Analytics Capstone Paper`                            | Final PowerPoint used for class presentation |
 
 ## Notes
 All files are included in this folder in full — no links or external references are used.
