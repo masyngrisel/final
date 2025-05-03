@@ -10,7 +10,8 @@ This folder contains the final version of my work for the Cybersecurity and Netw
 - **Recuva/CCleaner Report **: This is a research paper on two softwares used to protect your computer and recover files.
 - **Wireshark Report**: This is a report on my personal findings using Wireshark on my device to assess the safety of my ports.
 - **Asset and Inventory Risk Assessment**: This is another risk assessment for myself and all my assets that shows how high of a risk everything is along with the value of that risk and contingencies needed.
-- **Contingency Plan**: This is a contingency plan for the system Blackboard. 
+- **Contingency Plan**: This is a contingency plan for the system Blackboard.
+- **Capstone Cybersecurity**: This is a paper demonstrating what I have learned, my strengths, and my weaknesses in cybersecuirty/networking. 
 
 ## Key Skills Demonstrated
 - Personal cybersecurity risk identification and mitigation planning  
