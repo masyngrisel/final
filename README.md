@@ -22,6 +22,8 @@ Includes my assessment paper, key concepts learned, and example projects that de
 
 The `SynthesisProject` folder includes:
 - A working demo of my final project
+
+The `Additional` folder includes:
 - A detailed project report
 - Presentation slides
 - A recorded video presentation
@@ -32,4 +34,4 @@ This portfolio represents a comprehensive overview of what I’ve learned throug
 
 ---
 
-Thank you for visiting!
+
