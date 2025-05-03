@@ -28,6 +28,7 @@ This folder contains the final version of my work for the Cybersecurity and Netw
 | `Contingency Plan 2.docx`      | Contingency plan for the Blackboard system in case of failure or security breach |
 | `RecuvaCCleaner.docx`          | Research report on Recuva and CCleaner tools for data recovery and system cleaning |
 | `Report 2 Wireshark.docx`      | Network traffic analysis and port security findings using Wireshark |
+| `capstonecybersecurity4.docx`  | Paper describing my learnings in cybersecurity/networking  |
 
 ## Notes
 All files are included in this folder in full — no links or external references are used. Any materials not saved on my local device are referenced in my written summaries.
