@@ -1,7 +1,7 @@
 # Data Management (DM) - Final Evolution
 
 ## Overview
-This folder contains the final version of my work for the Data Management area of the program. It showcases my understanding of database principles, data modeling, and SQL querying techniques. Much of my hands-on experience was gained through completing structured lessons and exercises on DataCamp, which are documented through certificates. Although the work was completed online and not saved as standalone projects, these certificates reflect the practical skills acquired throughout the program.
+This folder contains the final version of my work for the Data Management area of the program. It showcases my understanding of database principles, data modeling, and SQL querying techniques. Much of my hands-on experience was gained through completing structured lessons and exercises on DataCamp, which are documented through certificates. Although the work was completed online and not saved as standalone projects, these certificates reflect the practical skills acquired throughout the program. It also contains an example models.py from my final project displaying my relationship between models in Django.
 
 ## Contents
 - **Capstone Data Management Paper**: A written assessment reflecting on the knowledge and skills gained in Data Management, including database design, normalization, and SQL-based querying.
