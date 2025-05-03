@@ -1,1 +1,35 @@
-# My name is Masyn Grisel and this is my portfolio of work that covers everything I have learned in the past two years for my Master's degree in Computer Information Systems and Business Analytics. It is broken into different sections that cover different areas I have spent time learning and working on projects. The first four areas are: Business Analytics, Data Management, Software Systems, and Cybersecurity/Networking. In each of these sections I have noted my definitions of these areas along with what I have learned which includes projects I have worked on. The following two folders includes a demo of my final project with an explanation of that and three deliverables that support the project(a paper, video, and PowerPoint). The goal of this repository is to provide an accumulation of everything I have learned throughout my schoolwork supported by my final project. 
+# Masyn Grisel - Master's Portfolio
+
+Welcome to my portfolio, which showcases the work I’ve completed over the past two years while earning my Master’s degree in Computer Information Systems and Business Analytics.
+
+## 📂 Portfolio Structure
+
+This repository is organized into the following sections:
+
+### 1. Business Analytics (BA)
+Includes my assessment paper, key concepts learned, and example projects that demonstrate applied analytics techniques.
+
+### 2. Data Management (DM)
+Includes my assessment paper, key concepts learned, and example projects that demonstrate applied data management techniques.
+
+### 3. Software Systems (SS)
+Includes my assessment paper, key concepts learned, and example projects that demonstrate applied software systems techniques.
+
+### 4. Cybersecurity & Networking (CN)
+Includes my assessment paper, key concepts learned, and example projects that demonstrate applied cybersecurity/networking techniques.
+
+## 📌 Capstone Project
+
+The `SynthesisProject` folder includes:
+- A working demo of my final project
+- A detailed project report
+- Presentation slides
+- A recorded video presentation
+
+## 🎯 Purpose
+
+This portfolio represents a comprehensive overview of what I’ve learned throughout the program. It combines academic knowledge with practical application and serves as a reference for my growth and capabilities in the field.
+
+---
+
+Thank you for visiting!
