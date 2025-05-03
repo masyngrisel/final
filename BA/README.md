@@ -27,8 +27,8 @@ This folder contains the final version of my work for the Business Analytics are
 | `Screenshot 2025-05-03 102937.png, 103023.ppng`            | RapidMiner Decision Tree |
 | `Screenshot 2025-05-03 103050.png, 103057.png`             | RapidMiner Correlation Matrix |
 | `salesdashboard.twb`                                       | Tableau Sales Dashboard |
-| `Data Analytics.docx`                                      | Final PowerPoint used for class presentation |
-| 
+| `Data Analytics.docx`                                      | Data Analytics Assessment Paper |
+| `Screenshot 2025-05-03 103514.png, 103528.png`             | RapidMiner Logistic Regression |
 
 ## Notes
-All files are included in this folder in full — no links or external references are used.
+All files are included in this folder in full — no links or external references are used. All skills obtained in this curriculum are not saved as projects to my computer, but are listed in the paper. 
